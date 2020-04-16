@@ -1,5 +1,5 @@
 # animTool
-快速修改CocosCreator动画剪辑帧动画时间
+快速批量修改CocosCreator动画剪辑帧动画时间
 
 使用:
 
