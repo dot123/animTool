@@ -1,0 +1,160 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "Role1_attackA",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 3.6666666666666665,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "99a36e14-079e-4c2e-9efe-fe07ae029af3"
+            }
+          },
+          {
+            "frame": 0.16666666666666666,
+            "value": {
+              "__uuid__": "7028afee-c01f-482c-b532-79852b1e8484"
+            }
+          },
+          {
+            "frame": 0.3333333333333333,
+            "value": {
+              "__uuid__": "4d592cd4-1b6e-4695-9761-2b01d72c9b23"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "0a74f5b0-bc9c-47c9-a6d1-9df7a836bfea"
+            }
+          },
+          {
+            "frame": 0.6666666666666666,
+            "value": {
+              "__uuid__": "71904bf9-f722-4202-9556-3e45bda94537"
+            }
+          },
+          {
+            "frame": 0.8333333333333333,
+            "value": {
+              "__uuid__": "654cd496-64b5-4a54-bfb1-65db3948317b"
+            }
+          },
+          {
+            "frame": 1,
+            "value": {
+              "__uuid__": "48b56da3-7492-4852-95b6-e64a21c4dade"
+            }
+          },
+          {
+            "frame": 1.1666666666666665,
+            "value": {
+              "__uuid__": "aa1106d9-a6b0-49eb-90f6-416e54c99cb0"
+            }
+          },
+          {
+            "frame": 1.3333333333333333,
+            "value": {
+              "__uuid__": "f550c21d-3780-48b4-834b-603217382120"
+            }
+          },
+          {
+            "frame": 1.5,
+            "value": {
+              "__uuid__": "ef3f4b3d-adfa-4aa0-9539-b2e273beb32f"
+            }
+          },
+          {
+            "frame": 1.6666666666666665,
+            "value": {
+              "__uuid__": "207995b8-2622-46fd-8798-fefd067df6fc"
+            }
+          },
+          {
+            "frame": 1.8333333333333333,
+            "value": {
+              "__uuid__": "4b406623-0fa8-4aef-b642-2c1a21f3ea58"
+            }
+          },
+          {
+            "frame": 2,
+            "value": {
+              "__uuid__": "3c828557-2118-43f6-bc19-def44c01f5c5"
+            }
+          },
+          {
+            "frame": 2.1666666666666665,
+            "value": {
+              "__uuid__": "38a22149-e673-4d30-9507-06ba4b0434ee"
+            }
+          },
+          {
+            "frame": 2.333333333333333,
+            "value": {
+              "__uuid__": "3eddf9cd-a6f9-4b13-be3c-c6e1e2d16c14"
+            }
+          },
+          {
+            "frame": 2.5,
+            "value": {
+              "__uuid__": "4ebd5676-ea89-40ac-aa45-e9bb479620cb"
+            }
+          },
+          {
+            "frame": 2.6666666666666665,
+            "value": {
+              "__uuid__": "d4aa2e94-088f-4a6a-b649-0b85a92b2c1c"
+            }
+          },
+          {
+            "frame": 2.833333333333333,
+            "value": {
+              "__uuid__": "f0ba5aaa-e220-413b-b192-62bce9679250"
+            }
+          },
+          {
+            "frame": 3,
+            "value": {
+              "__uuid__": "b11f7f24-7afd-4992-8bc5-82cb271e7391"
+            }
+          },
+          {
+            "frame": 3.1666666666666665,
+            "value": {
+              "__uuid__": "178ee99b-ad92-4dc2-aa67-711f9eaa7843"
+            }
+          },
+          {
+            "frame": 3.333333333333333,
+            "value": {
+              "__uuid__": "ef83644b-d8c6-415f-9132-0b2bd8f7797a"
+            }
+          },
+          {
+            "frame": 3.5,
+            "value": {
+              "__uuid__": "403a373f-39ae-4390-bcf6-8e6038fc2e3d"
+            }
+          }
+        ]
+      }
+    },
+    "paths": {}
+  },
+  "events": [
+    {
+      "frame": 0,
+      "func": "fasdggf",
+      "params": [
+        "444"
+      ]
+    }
+  ]
+}
